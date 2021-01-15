@@ -110,7 +110,7 @@ can be either positive or negative.
 #### myADS.readADC_Differential_0_1
 
 ```javascript
-myADS.readADC_Differential_0_1()
+myADS.readADC_Differential_2_3()
 ```
 Read the conversion results, measuring the difference between the P
 (AIN2) and N (AIN3) input. Returns a signed value since the difference
